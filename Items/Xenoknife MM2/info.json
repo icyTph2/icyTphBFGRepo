@@ -1,0 +1,10 @@
+﻿{
+  "name": "xenoknife",
+  "author": "icyTph",
+  "description": "Xenoknife from MM2 or some",
+  "file": "xenoknife",
+  "type": "item",
+  "scale": 6,
+  "left":  { "position": [-0.862648, 0.360145, -0.00344374], "rotation": [74.4508, 249.322, 333.379] },
+  "right": { "position": [0.9119, -0.306359, 0.228257], "rotation": [280.756, 130.098, 133.918] }
+}
