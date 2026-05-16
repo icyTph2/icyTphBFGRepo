@@ -1,7 +1,7 @@
 ﻿{
-  "displayName": "Bee Swarm Sim",
-  "file": "round_bee_swarm_sim",
-  "prefab": "round_bee_swarm_sim",
+  "displayName": "BeeSwarmSim",
+  "file": "round_beeswarmsim",
+  "prefab": "round_beeswarmsim",
   "skybox": "",
   "ambientMode": "3",
   "ambientLight": "0.2 0.2 0.2 1",
